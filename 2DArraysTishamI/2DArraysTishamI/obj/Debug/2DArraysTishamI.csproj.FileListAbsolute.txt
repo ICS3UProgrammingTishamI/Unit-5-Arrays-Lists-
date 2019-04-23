@@ -1,0 +1,20 @@
+C:\Users\drkil\source\repos\2DArraysTishamI\2DArraysTishamI\bin\Debug\2DArraysTishamI.exe.config
+C:\Users\drkil\source\repos\2DArraysTishamI\2DArraysTishamI\bin\Debug\2DArraysTishamI.exe
+C:\Users\drkil\source\repos\2DArraysTishamI\2DArraysTishamI\bin\Debug\2DArraysTishamI.pdb
+C:\Users\drkil\source\repos\2DArraysTishamI\2DArraysTishamI\obj\Debug\2DArraysTishamI.csprojAssemblyReference.cache
+C:\Users\drkil\source\repos\2DArraysTishamI\2DArraysTishamI\obj\Debug\_2DArraysTishamI.frm2DArrays.resources
+C:\Users\drkil\source\repos\2DArraysTishamI\2DArraysTishamI\obj\Debug\_2DArraysTishamI.Properties.Resources.resources
+C:\Users\drkil\source\repos\2DArraysTishamI\2DArraysTishamI\obj\Debug\2DArraysTishamI.csproj.GenerateResource.cache
+C:\Users\drkil\source\repos\2DArraysTishamI\2DArraysTishamI\obj\Debug\2DArraysTishamI.csproj.CoreCompileInputs.cache
+C:\Users\drkil\source\repos\2DArraysTishamI\2DArraysTishamI\obj\Debug\2DArraysTishamI.exe
+C:\Users\drkil\source\repos\2DArraysTishamI\2DArraysTishamI\obj\Debug\2DArraysTishamI.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\2DArraysTishamI\2DArraysTishamI\bin\Debug\2DArraysTishamI.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\2DArraysTishamI\2DArraysTishamI\bin\Debug\2DArraysTishamI.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\2DArraysTishamI\2DArraysTishamI\bin\Debug\2DArraysTishamI.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\2DArraysTishamI\2DArraysTishamI\obj\Debug\2DArraysTishamI.csprojAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\2DArraysTishamI\2DArraysTishamI\obj\Debug\_2DArraysTishamI.frm2DArrays.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\2DArraysTishamI\2DArraysTishamI\obj\Debug\_2DArraysTishamI.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\2DArraysTishamI\2DArraysTishamI\obj\Debug\2DArraysTishamI.csproj.GenerateResource.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\2DArraysTishamI\2DArraysTishamI\obj\Debug\2DArraysTishamI.csproj.CoreCompileInputs.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\2DArraysTishamI\2DArraysTishamI\obj\Debug\2DArraysTishamI.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\2DArraysTishamI\2DArraysTishamI\obj\Debug\2DArraysTishamI.pdb

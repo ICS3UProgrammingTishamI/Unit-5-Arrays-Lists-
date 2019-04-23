@@ -1,0 +1,20 @@
+C:\Users\drkil\Documents\Dailies\MinValueTishamI\MinValueTishamI\bin\Debug\MinValueTishamI.exe.config
+C:\Users\drkil\Documents\Dailies\MinValueTishamI\MinValueTishamI\bin\Debug\MinValueTishamI.exe
+C:\Users\drkil\Documents\Dailies\MinValueTishamI\MinValueTishamI\bin\Debug\MinValueTishamI.pdb
+C:\Users\drkil\Documents\Dailies\MinValueTishamI\MinValueTishamI\obj\Debug\MinValueTishamI.csprojAssemblyReference.cache
+C:\Users\drkil\Documents\Dailies\MinValueTishamI\MinValueTishamI\obj\Debug\MinValueTishamI.frmMinValue.resources
+C:\Users\drkil\Documents\Dailies\MinValueTishamI\MinValueTishamI\obj\Debug\MinValueTishamI.Properties.Resources.resources
+C:\Users\drkil\Documents\Dailies\MinValueTishamI\MinValueTishamI\obj\Debug\MinValueTishamI.csproj.GenerateResource.cache
+C:\Users\drkil\Documents\Dailies\MinValueTishamI\MinValueTishamI\obj\Debug\MinValueTishamI.csproj.CoreCompileInputs.cache
+C:\Users\drkil\Documents\Dailies\MinValueTishamI\MinValueTishamI\obj\Debug\MinValueTishamI.exe
+C:\Users\drkil\Documents\Dailies\MinValueTishamI\MinValueTishamI\obj\Debug\MinValueTishamI.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\MinValueTishamI\MinValueTishamI\bin\Debug\MinValueTishamI.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\MinValueTishamI\MinValueTishamI\bin\Debug\MinValueTishamI.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\MinValueTishamI\MinValueTishamI\bin\Debug\MinValueTishamI.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\MinValueTishamI\MinValueTishamI\obj\Debug\MinValueTishamI.csprojAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\MinValueTishamI\MinValueTishamI\obj\Debug\MinValueTishamI.frmMinValue.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\MinValueTishamI\MinValueTishamI\obj\Debug\MinValueTishamI.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\MinValueTishamI\MinValueTishamI\obj\Debug\MinValueTishamI.csproj.GenerateResource.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\MinValueTishamI\MinValueTishamI\obj\Debug\MinValueTishamI.csproj.CoreCompileInputs.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\MinValueTishamI\MinValueTishamI\obj\Debug\MinValueTishamI.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\MinValueTishamI\MinValueTishamI\obj\Debug\MinValueTishamI.pdb

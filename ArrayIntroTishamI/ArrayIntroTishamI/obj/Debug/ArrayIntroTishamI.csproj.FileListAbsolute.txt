@@ -1,0 +1,10 @@
+C:\Users\drkil\Documents\Dailies\WalkingMan Images\ArrayIntroTishamI\ArrayIntroTishamI\bin\Debug\ArrayIntroTishamI.exe.config
+C:\Users\drkil\Documents\Dailies\WalkingMan Images\ArrayIntroTishamI\ArrayIntroTishamI\bin\Debug\ArrayIntroTishamI.exe
+C:\Users\drkil\Documents\Dailies\WalkingMan Images\ArrayIntroTishamI\ArrayIntroTishamI\bin\Debug\ArrayIntroTishamI.pdb
+C:\Users\drkil\Documents\Dailies\WalkingMan Images\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.csprojAssemblyReference.cache
+C:\Users\drkil\Documents\Dailies\WalkingMan Images\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.frmArrayIntro.resources
+C:\Users\drkil\Documents\Dailies\WalkingMan Images\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.Properties.Resources.resources
+C:\Users\drkil\Documents\Dailies\WalkingMan Images\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.csproj.GenerateResource.cache
+C:\Users\drkil\Documents\Dailies\WalkingMan Images\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.csproj.CoreCompileInputs.cache
+C:\Users\drkil\Documents\Dailies\WalkingMan Images\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.exe
+C:\Users\drkil\Documents\Dailies\WalkingMan Images\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.pdb
