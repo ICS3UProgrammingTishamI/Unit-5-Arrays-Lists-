@@ -8,3 +8,13 @@ C:\Users\drkil\Documents\Dailies\WalkingMan Images\ArrayIntroTishamI\ArrayIntroT
 C:\Users\drkil\Documents\Dailies\WalkingMan Images\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.csproj.CoreCompileInputs.cache
 C:\Users\drkil\Documents\Dailies\WalkingMan Images\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.exe
 C:\Users\drkil\Documents\Dailies\WalkingMan Images\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\ArrayIntroTishamI\ArrayIntroTishamI\bin\Debug\ArrayIntroTishamI.exe.config
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\ArrayIntroTishamI\ArrayIntroTishamI\bin\Debug\ArrayIntroTishamI.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\ArrayIntroTishamI\ArrayIntroTishamI\bin\Debug\ArrayIntroTishamI.pdb
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.csprojAssemblyReference.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.frmArrayIntro.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.Properties.Resources.resources
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.csproj.GenerateResource.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.csproj.CoreCompileInputs.cache
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.exe
+N:\a\Sem2-Winter2019\ICS3U Programming\Islam, Tisham\Unit 5 (Arrays & Lists)\ArrayIntroTishamI\ArrayIntroTishamI\obj\Debug\ArrayIntroTishamI.pdb

@@ -35,7 +35,7 @@ namespace _2DArraysTishamI
         //Input: int[,] intyBoi (A 2D array)
         //Output: String
         //Description: Calculates the average of the numbers within an array,
-        //then returns the average in the form of s string
+        //then returns the average in the form of a string
         private string ArrayAverage(int[,] intyBoi)
         {
             //local variables
