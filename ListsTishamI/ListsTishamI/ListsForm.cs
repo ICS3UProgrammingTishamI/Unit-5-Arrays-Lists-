@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Tisham Islam
+ * Created on: 02/05/2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #39 - Lists
+ * This program contains a list that will calculate the average of the numbers that you input
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadWriteTishamI", "ReadWriteTishamI\ReadWriteTishamI.csproj", "{D857F9F5-5A6C-4A40-B147-A24613AED6AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D857F9F5-5A6C-4A40-B147-A24613AED6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D857F9F5-5A6C-4A40-B147-A24613AED6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D857F9F5-5A6C-4A40-B147-A24613AED6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D857F9F5-5A6C-4A40-B147-A24613AED6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A7B7A48-DF21-44E9-B057-B7AD5656BECC}
+	EndGlobalSection
+EndGlobal
