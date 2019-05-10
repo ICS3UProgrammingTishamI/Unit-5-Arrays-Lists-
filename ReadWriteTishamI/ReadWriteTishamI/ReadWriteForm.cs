@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: First Last
+ * Created on: Day-Month-Year
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #40 - Read/Write
+ * This program reads a program, determines if the strings are equal
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
