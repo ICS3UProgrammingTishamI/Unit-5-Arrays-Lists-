@@ -1,0 +1,10 @@
+C:\Users\drkil\Documents\Dailies\PassFailTishamI\PassFailTishamI\bin\Debug\PassFailTishamI.exe.config
+C:\Users\drkil\Documents\Dailies\PassFailTishamI\PassFailTishamI\bin\Debug\PassFailTishamI.exe
+C:\Users\drkil\Documents\Dailies\PassFailTishamI\PassFailTishamI\bin\Debug\PassFailTishamI.pdb
+C:\Users\drkil\Documents\Dailies\PassFailTishamI\PassFailTishamI\obj\Debug\PassFailTishamI.csprojAssemblyReference.cache
+C:\Users\drkil\Documents\Dailies\PassFailTishamI\PassFailTishamI\obj\Debug\PassFailTishamI.frmPassFail.resources
+C:\Users\drkil\Documents\Dailies\PassFailTishamI\PassFailTishamI\obj\Debug\PassFailTishamI.Properties.Resources.resources
+C:\Users\drkil\Documents\Dailies\PassFailTishamI\PassFailTishamI\obj\Debug\PassFailTishamI.csproj.GenerateResource.cache
+C:\Users\drkil\Documents\Dailies\PassFailTishamI\PassFailTishamI\obj\Debug\PassFailTishamI.csproj.CoreCompileInputs.cache
+C:\Users\drkil\Documents\Dailies\PassFailTishamI\PassFailTishamI\obj\Debug\PassFailTishamI.exe
+C:\Users\drkil\Documents\Dailies\PassFailTishamI\PassFailTishamI\obj\Debug\PassFailTishamI.pdb
